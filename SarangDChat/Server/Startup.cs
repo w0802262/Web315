@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.ResponseCompression;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using BlazorWebAssemblySignalRApp.Server.Hubs;
+using SarangDChat.Server.Hubs;
 using System.Linq;
 
 namespace SarangDChat.Server
